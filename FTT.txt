@@ -1,0 +1,6 @@
+08-17 12:01:52.889  5305  5305 I FTT     : MyAPP onCreate called, Android 8.0 or Above FTT
+08-17 12:01:53.041  5305  5305 I FTT     : Ready to register self broadcast
+08-17 12:01:53.093  5305  5305 I FTT     : Successful to register self broadcast
+08-17 12:01:53.095  5305  5305 I FTT_Crash : Create APP Crash Handler
+08-17 12:01:53.128  5305  5305 I FTT     : Register Crash Handler
+08-17 12:01:54.192  5305  5305 I FTT     : Send Broadcast Eealy Boot
